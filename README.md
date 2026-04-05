@@ -1,46 +1,46 @@
 # React + TypeScript + Vite
 
-# 🛒 Product and Inventory Management System
+# Product and Inventory Management System
 
 A full-featured product and inventory management system built using **Node.js**, **Express**, **PostgreSQL**, and **React.js**. Designed to streamline the process of managing products, suppliers, categories, warehouses, and purchases — this system is ideal for small to medium-sized businesses looking for an efficient way to manage stock and inventory.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ![Screenshot 2025-05-18 230837](https://github.com/user-attachments/assets/3740f5b4-b2d1-4ba4-adf3-40dadaa161a3)
 ---
 
-## ⚙️ Features
+## Features
 
-✅ **Authentication & Role-Based Access**  
+**Authentication & Role-Based Access**  
 - Admin and cashier roles with secure login  
 - Dashboard access based on user role  
 
-✅ **Product Management**  
+**Product Management**  
 - Add, edit, delete, and search products  
 - Stock quantity tracking  
 - Category and warehouse tagging  
 
-✅ **Inventory Tracking**  
+**Inventory Tracking**  
 - Purchase order tracking  
 - Supplier management (e.g., poultry, condiments, etc.)  
 - Warehouse storage overview  
 
-✅ **Supplier & Warehouse Management**  
+**Supplier & Warehouse Management**  
 - Add and update supplier details  
 - Assign purchases to suppliers and warehouses  
 
-✅ **Payment Method Handling**  
+**Payment Method Handling**  
 - Supports cash and GCash payment options  
 - Payment details stored securely in the database  
 
-✅ **Responsive UI**  
+**Responsive UI**  
 - Clean and intuitive interface built with React.js  
 - Styled using SCSS for flexibility and maintainability  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**  
 - React.js  
@@ -64,7 +64,7 @@ A full-featured product and inventory management system built using **Node.js**,
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 > Make sure you have Node.js, PostgreSQL, and npm installed.
 
